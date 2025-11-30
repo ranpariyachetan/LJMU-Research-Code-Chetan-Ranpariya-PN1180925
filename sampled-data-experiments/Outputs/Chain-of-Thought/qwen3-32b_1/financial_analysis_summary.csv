@@ -1,0 +1,10 @@
+Task,Metric,Score
+Question Answering,Exact Match,0.023283582089552238
+Question Answering,Token F1,0.5769239504227439
+Sentiment Classification,Accuracy,0.3725373134328358
+Sentiment Classification,Precision (Macro),0.4887159559094316
+Sentiment Classification,Recall (Macro),0.48566112250322774
+Sentiment Classification,F1 (Macro),0.36721935888450846
+Topic Detection,Accuracy,0.4823880597014925
+Topic Detection,Macro-F1,0.4113233728287892
+Topic Detection,Micro-F1,0.4823880597014925
